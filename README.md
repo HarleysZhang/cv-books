@@ -1,6 +1,7 @@
 ## 前言
 > These are open and classic books for computer version engineers, it can help us from entry to practice.
 
+**2022-11-9日更新，仓库文件失效了**，建议关注公众号-**嵌入式视觉**，回复相应关键字下载。
 本仓库大部分书籍都是**开源**的，通过在网上收集整理而来，如果部分书籍存在侵权行为，可以联系我删除掉相应书籍。
 
 同时，想要知道书籍的**学习重点和路线**建议先看每个目录下的 `README` 图像文件。最后，如果这个仓库对你有所帮助，可以扫码关注下博主的公众号-**嵌入式视觉**。
